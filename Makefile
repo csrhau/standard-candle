@@ -1,4 +1,4 @@
-CC=icpc
+CC=g++
 CFLAGS=-std=c++11 -O0 -Wall -Wextra -pedantic
 
 all: candle
